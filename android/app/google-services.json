@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "691208521821",
+    "project_id": "peergradingapp",
+    "storage_bucket": "peergradingapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:691208521821:android:8db9ddecda2e850df3e5b4",
+        "android_client_info": {
+          "package_name": "com.example.evalutionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "691208521821-qv2k5qlru5h4b9c3r7a6iu7nvjuvsm2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evalutionapp",
+            "certificate_hash": "03994d4c91fc6d95c6b3355d47ac66d8c58aa5de"
+          }
+        },
+        {
+          "client_id": "691208521821-eq1c4n1t1q9gpsv5dhka8pm45cnfoii8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt3y1-9l58kipmaKAYOPDYJmxfrn8XypQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "691208521821-eq1c4n1t1q9gpsv5dhka8pm45cnfoii8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

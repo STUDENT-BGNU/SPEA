@@ -1,7 +1,7 @@
 # 🎤 SPEA
 ### Smart Presentation Evaluation App
 
-📱 A Flutter & Firebase based Final Year Project.
+📱 A Flutter & Firebase based Project.
 
 ## ✨ Features
 - 🔐 Firebase Authentication
